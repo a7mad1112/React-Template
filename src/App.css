@@ -1,0 +1,17 @@
+
+* {
+  box-sizing: border-box;
+}
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.header a {
+  text-decoration: none !important;
+  color: #000;
+}
+.header {
+  padding: 15px 0 !important;
+}

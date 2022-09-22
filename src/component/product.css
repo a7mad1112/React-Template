@@ -1,0 +1,9 @@
+
+.prodcut-list .card {
+    height: 500px !important;
+    max-height: 500px !important;
+    transition: 0.4s;
+}
+.prodcut-list .card:hover {
+    transform: translateY(-5px);
+}
